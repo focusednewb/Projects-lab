@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Describe this issue template's purpose here.
+about: Describe the user requirements, product features & business case / value
 title: ''
 labels: ''
 assignees: ''
